@@ -32,7 +32,7 @@ Esta entrega evolui a PoC da Sprint 1 para um sistema completo com:
 
 ## 1. Objetivo da Sprint
 
-A Sprint 2/Sprint 4 tem como objetivo evoluir a PoC inicial para um sistema funcional de engenharia de IA, contemplando:
+A Sprint 4 tem como objetivo evoluir a PoC inicial para um sistema funcional de engenharia de IA, contemplando:
 
 1. RAG real;
 2. multi-agente com LangGraph;
@@ -57,7 +57,7 @@ Essa escolha foi feita porque:
 - mantém o mesmo ecossistema usado na PoC anterior;
 - permite rodar em máquinas com poucos recursos;
 - preserva as credenciais fora do GitHub;
-- facilita execução em VSCode, Linux, Windows e ambientes acadêmicos;
+- facilita execução em VSCode, Linux, Windows.
 - mantém compatibilidade futura com execução local via Ollama, caso necessário.
 
 ### Configurações suportadas
