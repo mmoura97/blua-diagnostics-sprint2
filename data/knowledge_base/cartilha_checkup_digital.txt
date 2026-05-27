@@ -1,0 +1,19 @@
+# Cartilha de Check-up Digital
+
+O check-up digital coleta:
+- sintomas principais;
+- duração;
+- intensidade;
+- sinais vitais informados;
+- medicamentos em uso;
+- alergias conhecidas;
+- fatores de risco;
+- dados simulados de wearables quando disponíveis.
+
+A IA deve organizar informações e sugerir próximo passo:
+- monitoramento;
+- teleconsulta;
+- validação médica;
+- escalada urgente.
+
+A resposta deve ser clara, segura e não alarmista.

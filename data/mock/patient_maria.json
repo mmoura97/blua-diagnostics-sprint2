@@ -1,0 +1,21 @@
+{
+  "patient_id": "MARIA-34",
+  "nome": "Maria",
+  "idade": 34,
+  "historico": "hipertensão arterial",
+  "ultima_consulta": "03/2026",
+  "medico_responsavel": "Dr. João",
+  "medicamentos_uso_continuo": [
+    "Losartana 50mg"
+  ],
+  "alergias": [
+    "dipirona"
+  ],
+  "pressao_recente": "135/85",
+  "wearables": {
+    "frequencia_cardiaca_bpm": 88,
+    "spo2_percentual": 97,
+    "sono_horas": 6.1,
+    "passos_hoje": 4200
+  }
+}

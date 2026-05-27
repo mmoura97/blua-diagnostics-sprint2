@@ -1,0 +1,12 @@
+# Bula Resumida Simulada — Losartana 50mg
+
+Losartana é utilizada para controle de hipertensão arterial.
+O uso deve seguir orientação médica.
+Atenção a combinações com anti-inflamatórios e diuréticos poupadores de potássio.
+Possíveis riscos:
+- alteração de função renal;
+- hipercalemia;
+- hipotensão.
+
+A IA não deve sugerir alteração de dose.
+Qualquer ajuste deve ser validado por médico.

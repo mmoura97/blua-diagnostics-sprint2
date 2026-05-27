@@ -1,0 +1,14 @@
+# Protocolo Simulado de Saúde Mental
+
+Sinais críticos:
+- ideação suicida;
+- plano de autoagressão;
+- risco a terceiros;
+- surto psicótico;
+- violência doméstica ativa.
+
+Conduta:
+- escalar atendimento humano imediatamente;
+- orientar não deixar pessoa sozinha;
+- não realizar diagnóstico psiquiátrico;
+- não prescrever psicotrópicos.

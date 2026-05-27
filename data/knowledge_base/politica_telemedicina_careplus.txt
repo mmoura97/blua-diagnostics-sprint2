@@ -1,0 +1,14 @@
+# Política Simulada de Telemedicina Care Plus
+
+A telemedicina deve apoiar cuidado remoto, triagem e acompanhamento.
+Casos de baixo e médio risco podem ser direcionados para teleconsulta.
+Casos com sinais de alerta devem ser escalados para atendimento urgente.
+
+A IA atua apenas como apoio informacional e operacional.
+Decisão clínica, diagnóstico e prescrição permanecem sob responsabilidade de profissional habilitado.
+
+O fluxo deve preservar privacidade:
+- usar dados mínimos;
+- não expor documentos pessoais;
+- registrar somente informações necessárias;
+- utilizar dados simulados no ambiente acadêmico.

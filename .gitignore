@@ -1,0 +1,91 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual Environments
+# =========================
+venv/
+.venv/
+env/
+
+# =========================
+# Environment Variables / Secrets
+# =========================
+.env
+*.env
+secrets.json
+credentials.json
+
+# =========================
+# Vector Database / RAG
+# =========================
+chroma_db/
+*.sqlite3
+*.db
+
+# =========================
+# Jupyter / Colab
+# =========================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# VSCode / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Cache
+# =========================
+.cache/
+pytest_cache/
+.mypy_cache/
+tmp/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / Distribution
+# =========================
+dist/
+build/
+*.egg-info/
+
+# =========================
+# Uploaded / Generated Evaluation Outputs
+# =========================
+evals/generated/
+reports/generated/
+
+# =========================
+# Local Testing Files
+# =========================
+test_outputs/
+debug/
+
+# =========================
+# API Keys
+# =========================
+*.pem
+*.key

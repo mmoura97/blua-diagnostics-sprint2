@@ -1,0 +1,30 @@
+# Protocolo de Red Flags — BluaDiagnostics
+
+Red flags são sinais que exigem escalada imediata para atendimento humano.
+
+Sinais cardíacos:
+- dor no peito opressiva;
+- dor irradiando para braço esquerdo, mandíbula ou costas;
+- sudorese fria associada;
+- falta de ar importante;
+- desmaio ou sensação de desmaio.
+
+Sinais neurológicos:
+- fraqueza súbita em um lado do corpo;
+- alteração súbita da fala;
+- confusão mental aguda;
+- perda visual súbita;
+- cefaleia súbita intensa diferente do habitual.
+
+Sinais respiratórios graves:
+- falta de ar intensa;
+- saturação abaixo de 92%;
+- lábios arroxeados;
+- chiado intenso com dificuldade para falar.
+
+Conduta:
+- classificar como red_flag;
+- acionar agente de escalada humana;
+- não diagnosticar;
+- não prescrever;
+- orientar atendimento imediato.

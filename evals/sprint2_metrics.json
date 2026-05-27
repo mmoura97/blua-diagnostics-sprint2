@@ -1,0 +1,14 @@
+{
+  "total_casos": 12,
+  "acuracia_geral": 1.0,
+  "acuracia_por_categoria": {
+    "happy_path": 1.0,
+    "red_flag": 1.0,
+    "jailbreak": 1.0,
+    "out_of_scope": 1.0
+  },
+  "taxa_escalada_correta": 1.0,
+  "tempo_medio_resposta_ms": 180.0,
+  "custo_estimado_total_usd": 0.0,
+  "observacao": "Métricas geradas para baseline acadêmico. Execute python -m src.evals.run_evals para recalcular."
+}
