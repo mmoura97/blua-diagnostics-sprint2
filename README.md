@@ -14,7 +14,7 @@ Esta entrega evolui a PoC da Sprint 1 para um sistema completo com:
 
 > **Modelo principal:** Ollama Cloud via `.env`  
 > **Autenticação:** variável `OLLAMA_API_KEY`  
-> **Motivo:** manter consistência com a PoC anterior, facilitar execução acadêmica e evitar exposição de credenciais no GitHub.
+> **Motivo:** manter consistência com a PoC anterior, facilitar execução e evitar exposição de credenciais no GitHub.
 
 ---
 
