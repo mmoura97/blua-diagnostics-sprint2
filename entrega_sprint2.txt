@@ -5,10 +5,10 @@ Pedro Henrique Camacho de Alencar — RM568071
 Igor Mota Marran — RM567823
 
 GitHub:
-INSERIR_LINK_REPOSITORIO_ATUALIZADO
+https://github.com/mmoura97/blua-diagnostics-sprint2
 
 Vídeo de demonstração:
-INSERIR_LINK_YOUTUBE_NAO_LISTADO
+https://www.youtube.com/watch?v=wwCPQxQRsM4
 
 Relatório técnico final:
-INSERIR_LINK_PARA_docs/relatorio_final.md
+https://github.com/mmoura97/blua-diagnostics-sprint2/blob/main/docs/relatorio_final.md
