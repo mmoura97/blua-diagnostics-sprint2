@@ -6,7 +6,7 @@ Esta entrega evolui a PoC da Sprint 1 para uma arquitetura completa contendo:
 
 * RAG funcional sobre base de conhecimento clínica simulada;
 * arquitetura multi-agente com LangGraph;
-* function calling com tools clínicas mockadas;
+* function calling com tools clínicas simuladas;
 * guardrails técnicos;
 * suite de avaliação automatizada;
 * interface visual em Streamlit;
@@ -158,7 +158,7 @@ flowchart TD
     K --> L[Histórico do Paciente]
     K --> M[Interações Medicamentosas]
     K --> N[Agendamento]
-    K --> O[Wearables Mockados]
+    K --> O[Dados simulados de wearables]
 
     E --> P[Ollama Cloud]
     F --> P
@@ -620,7 +620,7 @@ Nenhuma API key deve ser enviada ao GitHub.
 | Chroma          | Simplicidade local     | Escalabilidade limitada      |
 | Streamlit       | Demonstração rápida    | Frontend simplificado        |
 | Dados simulados | Segurança acadêmica    | Sem integração real          |
-| Tools mockadas  | Controle do fluxo      | Sem backend hospitalar       |
+| Tools clínicas simuladas | Controle do fluxo | Sem backend hospitalar |
 
 ---
 
@@ -716,7 +716,7 @@ A solução:
 * não substitui profissionais de saúde;
 * não realiza diagnóstico definitivo;
 * não prescreve medicamentos;
-* não utiliza dados clínicos reais;
+* utiliza exclusivamente dados simulados para fins acadêmicos;
 * realiza apenas orientação inicial contextualizada.
 
 Casos críticos são encaminhados para atendimento humano.
