@@ -1,9 +1,10 @@
-# Protocolo Simulado de Interações Medicamentosas
+# Protocolo de Interações Medicamentosas
 
-Regras simuladas:
+Regras clínicas consideradas:
+
 - Losartana + ibuprofeno: risco moderado em pacientes hipertensos; validar com médico.
-- Losartana + espironolactona: risco de hipercalemia; validar potássio e função renal.
-- Dipirona em paciente com alergia documentada: risco alto; evitar e escalar validação médica.
+- Losartana + espironolactona: risco de hipercalemia; avaliar potássio e função renal.
+- Dipirona em paciente com alergia documentada: risco alto; evitar e orientar validação médica.
 - Automedicação deve ser desencorajada.
 
-A IA apenas sinaliza alerta. Não prescreve nem troca medicamento.
+A IA apenas sinaliza alertas. Não prescreve, não substitui orientação médica e não altera medicamentos.

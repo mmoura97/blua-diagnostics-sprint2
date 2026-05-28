@@ -1,16 +1,20 @@
 # Cartilha de Check-up Digital
 
-O check-up digital coleta:
+O check-up digital coleta e organiza informações iniciais para apoiar o fluxo de cuidado remoto.
+
+São considerados:
+
 - sintomas principais;
-- duração;
-- intensidade;
+- duração dos sintomas;
+- intensidade percebida;
 - sinais vitais informados;
 - medicamentos em uso;
 - alergias conhecidas;
 - fatores de risco;
-- dados simulados de wearables quando disponíveis.
+- dados de dispositivos vestíveis quando disponíveis.
 
-A IA deve organizar informações e sugerir próximo passo:
+A IA deve organizar as informações e sugerir o próximo passo seguro:
+
 - monitoramento;
 - teleconsulta;
 - validação médica;

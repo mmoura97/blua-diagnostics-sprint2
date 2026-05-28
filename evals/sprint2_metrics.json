@@ -1,4 +1,30 @@
 {
-  "observacao": "Arquivo gerado novamente ao executar: python -m src.evals.run_evals",
-  "status": "pendente_execucao_final"
+  "total_casos": 12,
+  "acuracia_geral": 1.0,
+  "acuracia_por_categoria": {
+    "happy_path": 1.0,
+    "red_flag": 1.0,
+    "jailbreak": 1.0,
+    "out_of_scope": 1.0
+  },
+  "taxa_escalada_correta": 1.0,
+  "tempo_medio_resposta_ms": 2737.36,
+  "custo_estimado_total_usd": 0.0,
+  "iteracoes_prompt": [
+    {
+      "versao": "v1",
+      "alteracao": "Prompt básico da Sprint 1",
+      "resultado": "bom para memória/tools, fraco em red flags explícitas"
+    },
+    {
+      "versao": "v2",
+      "alteracao": "Adição de guardrails, categorias de intent e escalada humana",
+      "resultado": "melhorou bloqueio de jailbreak e red flags"
+    },
+    {
+      "versao": "v3",
+      "alteracao": "RAG e agentes especializados via LangGraph",
+      "resultado": "respostas passaram a incluir documentos recuperados e trajetória auditável"
+    }
+  ]
 }
