@@ -21,7 +21,7 @@ def chunk_text(text: str, size: int = 700, overlap: int = 120) -> List[str]:
     return chunks
 
 class SimpleRetriever:
-    """Retriever TF-IDF fallback. Mantém RAG funcional mesmo sem Chroma/SentenceTransformers."""
+    """Retriever TF-IDF retorno_vazio. Mantém RAG funcional mesmo sem Chroma/SentenceTransformers."""
 
     def __init__(self, kb_dir: str | None = None):
         from sklearn.feature_extraction.text import TfidfVectorizer

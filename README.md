@@ -66,9 +66,9 @@ Essa escolha foi feita porque:
 |---|---|---|
 | Ollama Cloud via `.env` | Modo oficial da entrega | Recomendado para correção e demonstração |
 | Ollama local | Possível evolução futura | Exige `ollama serve` e modelo baixado |
-| Modo acadêmico sem LLM | Apenas teste de fluxo | Não é o modo principal da entrega |
+| Execução sem chave não suportada | Requer chave Ollama configurada | Não é o modo principal da entrega |
 
-O modo sem LLM existe apenas para desenvolvimento quando não há chave configurada. A entrega principal foi projetada para `USE_OLLAMA=true`.
+A execução oficial requer `OLLAMA_API_KEY` configurada no arquivo `.env`.
 
 ---
 
@@ -291,7 +291,6 @@ Edite o `.env`:
 OLLAMA_HOST=https://ollama.com
 OLLAMA_MODEL=gpt-oss:120b
 OLLAMA_API_KEY=sua_chave_ollama
-USE_OLLAMA=true
 CHROMA_DIR=chroma_db
 ```
 
@@ -330,7 +329,6 @@ Editar `.env`:
 OLLAMA_HOST=https://ollama.com
 OLLAMA_MODEL=gpt-oss:120b
 OLLAMA_API_KEY=sua_chave_ollama
-USE_OLLAMA=true
 CHROMA_DIR=chroma_db
 ```
 
@@ -360,7 +358,6 @@ python -m src.evals.run_evals
 OLLAMA_HOST=https://ollama.com
 OLLAMA_MODEL=gpt-oss:120b
 OLLAMA_API_KEY=sua_chave_ollama
-USE_OLLAMA=true
 CHROMA_DIR=chroma_db
 ```
 

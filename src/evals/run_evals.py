@@ -38,7 +38,7 @@ def evaluate_case(case):
         "score_numerico": round(score, 2),
         "tempo_resposta_ms": result.get("elapsed_ms", elapsed),
         "custo_estimado_conversa_usd": 0.0,
-        "observacao_custo": "Uso via Ollama/fallback acadêmico sem custo de API paga."
+        "observacao_custo": "Uso via Ollama/execucao_ollama acadêmico sem custo de API paga."
     }
 
 def main():
